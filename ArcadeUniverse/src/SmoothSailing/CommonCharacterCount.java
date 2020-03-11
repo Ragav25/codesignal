@@ -40,9 +40,7 @@ public static int commonCharacterCount(String s1, String s2) {
 
         }
     }
-
     return total;
-
 }
 
     public static void main(String[] args) {
