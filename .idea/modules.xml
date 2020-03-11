@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArcadeUniverse/ArcadeUniverse.iml" filepath="$PROJECT_DIR$/ArcadeUniverse/ArcadeUniverse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/codesignal.iml" filepath="$PROJECT_DIR$/.idea/codesignal.iml" />
+    </modules>
+  </component>
+</project>
