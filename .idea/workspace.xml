@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="501f747a-3305-4ec2-9934-881f045ca82e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ArcadeUniverse/src/SmoothSailing/AllLongestString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArcadeUniverse/SmoothSailing/AllLongestString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ArcadeUniverse/SmoothSailing/AllLongestString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArcadeUniverse/SmoothSailing/AllLongestString2.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,20 +14,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ArcadeUniverse/src/SmoothSailing/AllLongestString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="22" column="54" selection-start-line="22" selection-start-column="54" selection-end-line="22" selection-end-column="54" />
+            <state relative-caret-position="430">
+              <caret line="33" column="4" lean-forward="true" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ArcadeUniverse/src/SmoothSailing/AllLongestString2.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ArcadeUniverse/src/SmoothSailing/CommonCharacterCount.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="651">
-              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+            <state relative-caret-position="400">
+              <caret line="52" column="40" selection-start-line="52" selection-start-column="40" selection-end-line="52" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -50,14 +52,15 @@
         <option value="$PROJECT_DIR$/ArcadeUniverse/src/SmoothSailing/GFG.java" />
         <option value="$PROJECT_DIR$/ArcadeUniverse/src/SmoothSailing/New.java" />
         <option value="$PROJECT_DIR$/ArcadeUniverse/src/SmoothSailing/check.java" />
-        <option value="$PROJECT_DIR$/ArcadeUniverse/src/SmoothSailing/AllLongestString.java" />
         <option value="$PROJECT_DIR$/ArcadeUniverse/src/SmoothSailing/AllLongestString2.java" />
+        <option value="$PROJECT_DIR$/ArcadeUniverse/src/SmoothSailing/AllLongestString.java" />
+        <option value="$PROJECT_DIR$/ArcadeUniverse/src/SmoothSailing/CommonCharacterCount.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="574" />
-    <option name="y" value="50" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="419" />
+    <option name="y" value="104" />
     <option name="width" value="699" />
     <option name="height" value="739" />
   </component>
@@ -101,7 +104,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583930028675" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583967928766" />
     <property name="last_opened_file_path" value="D:/Java-Spring/JAVA-Practice&amp;Lessons/ExtraCodeSignal" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -120,7 +123,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AllLongestString">
+  <component name="RunManager" selected="Application.CommonCharacterCount">
     <configuration name="AllLongestString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SmoothSailing.AllLongestString" />
       <module name="ArcadeUniverse" />
@@ -147,8 +150,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GFG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SmoothSailing.GFG" />
+    <configuration name="CommonCharacterCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SmoothSailing.CommonCharacterCount" />
       <module name="ArcadeUniverse" />
       <extension name="coverage">
         <pattern>
@@ -160,8 +163,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Graph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SmoothSailing.Graph" />
+    <configuration name="GFG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SmoothSailing.GFG" />
       <module name="ArcadeUniverse" />
       <extension name="coverage">
         <pattern>
@@ -188,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CommonCharacterCount" />
         <item itemvalue="Application.AllLongestString" />
         <item itemvalue="Application.AllLongestString2" />
         <item itemvalue="Application.check" />
         <item itemvalue="Application.GFG" />
-        <item itemvalue="Application.Graph" />
       </list>
     </recent_temporary>
   </component>
@@ -222,7 +225,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16717096" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.34585288" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -235,7 +238,7 @@
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" weight="0.32991454" />
-      <window_info anchor="bottom" id="Terminal" order="6" weight="0.32991454" />
+      <window_info anchor="bottom" id="Terminal" order="6" weight="0.62905985" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Messages" order="9" weight="0.33162394" />
@@ -248,7 +251,7 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="CodeStream" order="8" />
-      <window_info anchor="right" id="Run" order="9" weight="0.36535552" />
+      <window_info active="true" anchor="right" id="Run" order="9" visible="true" weight="0.36913767" />
     </layout>
   </component>
   <component name="editorHistoryManager">
@@ -256,20 +259,6 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/ArcadeUniverse/src/SmoothSailing/GFG.java" />
-    <entry file="file://$PROJECT_DIR$/ArcadeUniverse/src/SmoothSailing/New.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="7" column="20" lean-forward="true" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ArcadeUniverse/src/SmoothSailing/AllLongestString2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="651">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ArcadeUniverse/src/SmoothSailing/check.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
@@ -277,10 +266,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://D:/Java-Spring/JAVA-Practice&amp;Lessons/ExtraCodeSignal/CodeSignal.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArcadeUniverse/src/SmoothSailing/AllLongestString2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="777">
+          <caret line="37" column="5" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="37" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArcadeUniverse/src/SmoothSailing/New.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="20" lean-forward="true" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ArcadeUniverse/src/SmoothSailing/AllLongestString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="22" column="54" selection-start-line="22" selection-start-column="54" selection-end-line="22" selection-end-column="54" />
+        <state relative-caret-position="430">
+          <caret line="33" column="4" lean-forward="true" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArcadeUniverse/src/SmoothSailing/CommonCharacterCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="52" column="40" selection-start-line="52" selection-start-column="40" selection-end-line="52" selection-end-column="40" />
         </state>
       </provider>
     </entry>
